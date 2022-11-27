@@ -1,4 +1,4 @@
-baseURL = "https://mistpelled.github.io/"
+baseURL = "https://mistpelled.github.io/quartz/"
 languageCode = "fr-fr"
 relativeURLs = false
 disablePathToLower = true
