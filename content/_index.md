@@ -1,27 +1,35 @@
 ---
-title: 🪴 Quartz 3.
+title: Index | Mistpelled
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+# Salut 👋
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+Tu es arrivé à bon port 😄
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+___
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+## 🗂️ Index :
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+### La PMM :
+Je vous partage mes fiches de révision ici. J'essaye de construire une sorte de wiki où on pourra retrouver toutes les infos spécifiques à la PMM.
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+Bien évidemment la base de la base, j'ai tablé sur les [[PMM/Fiches/Initiative/Grades|grades de la Marine]], a connaitre pour pas pomper. Autre fondement, une fiche sur le [[PMM/Fiches/Initiative/Comportement|comportement en uniforme]], où je parle des règles de politesse et des mouvements en bloc ou par soi-même.
 
+Ensuite, c'est principalement des fiches sur le [[PMM/Themes/Permis Côtier|permis côtier]] que je mettrai à jour, pour vous aider à mieux comprendre cet univers complexe mais passionnant qu'est la navigation.  Normalement, il sera alimenté par ce qu'on fait en cours, ainsi que mes anciens cours et des astuces. A terme, je mettrai ici mes fiches pour le [CRR](https://www.anfr.fr/gerer/radiomaritime/le-crr), et l'extension hauturière.
+
+Je mets aussi en forme les fiches concernant la [[PMM/Themes/Sécurité|sécurité à bord]], majoritairement incendie.
+
+### 📖 Ressources et cours achevés :
+Je vais alimenter tout au long de l'année un [[PMM/Fiches/Glossaire|glossaire]], qui peut être utile avec l'amour de la Marine et des armées pour les acronymes.
+
+Mais aussi :
+- [[PMM/Fiches/Organisation de la Marine Nationale|L'organisation de la Marine]]
+- [[PMM/Fiches/Initiative/Grades des Marines Etrangères|Les grades des Marines étrangères alliées]]
+- [[PMM/Fiches/Initiative/Communication Internationale|L'alphabet international, la communication OTAN]]
+- [[PMM/Fiches/Compartimentage|Le compartimentage]]
+
+### 🥋 Les tenues :
+- [[Tenue de Service Courant]]
+- [[Tenue 22 H/F]]

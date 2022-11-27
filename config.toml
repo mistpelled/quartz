@@ -1,6 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+baseURL = "https://mistpelled.github.io/"
+languageCode = "fr-fr"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
