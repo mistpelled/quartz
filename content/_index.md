@@ -22,7 +22,7 @@ Ensuite, c'est principalement des fiches sur le [[PMM/Themes/Permis Côtier|perm
 Je mets aussi en forme les fiches concernant la [[PMM/Themes/Sécurité|sécurité à bord]], majoritairement incendie.
 
 ### 📖 Ressources et cours achevés :
-Je vais alimenter tout au long de l'année un [[PMM/Fiches/Glossaire|glossaire]], qui peut être utile avec l'amour de la Marine et des armées pour les acronymes.
+Je vais alimenter tout au long de l'année un [[PMM/Fiches/Glossaire|glossaire]], qui peut être utile avec l'amour de la Marine et des armées en géréral pour les acronymes.
 
 Mais aussi :
 - [[PMM/Fiches/Organisation de la Marine Nationale|L'organisation de la Marine]]
