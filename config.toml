@@ -2,7 +2,7 @@
 baseURL = "https://mistpelled.github.io/quartz/"
 languageCode = "en-us"
 =======
-baseURL = "https://mistpelled.github.io/pmm/"
+baseURL = "https://mistpelled.github.io/quartz/"
 languageCode = "fr-fr"
 >>>>>>> 0f2ad63 (ajout de pages et liens, fix mise en page + tentative fix url)
 relativeURLs = false
