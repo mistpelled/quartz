@@ -1,4 +1,4 @@
-baseURL = "https://mistpelled.github.io/"
+baseURL = "https://mistpelled.github.io/pmm/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
