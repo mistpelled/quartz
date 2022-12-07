@@ -69,7 +69,7 @@ ___
 | 4                   | Navigation isolée en temps de paix / Mouillage              |
 | 5                   | Mouillage sûr                                               |
 
-## l'Arlequin
+## Arlequin
 
 C'est une plaque apposée sur chaque porte étange et échappée d'un bateau de la Marine Nationale, indiquant le comportement à adopter en fonction de la situation d'étanchétité.
 
